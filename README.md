@@ -1,0 +1,1 @@
+![Workflow](https://github.com/khadeev/hexlet_pytest/actions/workflows/hello.yml/badge.svg)
